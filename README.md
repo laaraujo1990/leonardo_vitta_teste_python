@@ -17,6 +17,9 @@ Comando para subir a aplicacao:
 Comando para finalizar a aplicacao:
 *sudo docker-compose down --volumes*
 
+Repositorio hub.docker:
+https://hub.docker.com/r/laaraujo1990/leonardo_vitta_teste_python
+
 # Funcionalidades
 Endereço localhost:5000
 Rotas:
