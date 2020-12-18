@@ -5,10 +5,10 @@ Desafio tecnico de programação - Versao 2.0 - Leonardo Araujo
 https://github.com/vitta-hiring/case-back-end/tree/master/challenges/2-SquareOfSquares
 
 # App
-Aplicacao: Python
-Microservico: Flask
-Banco de dados: Mongo
-Container: Docker
+- Aplicacao: Python
+- Microservico: Flask
+- Banco de dados: Mongo
+- Container: Docker
 
 # Para rodar a aplicacao
 Comando para subir a aplicacao:
